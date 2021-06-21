@@ -1,39 +1,40 @@
-## [titel van jullie game]
-Project team:[jullie namen]
+## [Flight-19]
+Project team:[Defne Aykutalp, Kimberley Jeffry, Lennard Hartog, Miguel Heijmans, Robin Knol, Suzane Marmolejos]
 
 Platform:
-[jullie platfom]
+[Unreal Engine 4.26.2]
 
 ### Korte omschrijving van de game
-...
+[Eng] During a Flight you crashed on an island in the bermula traingle where you have to collect blackboxes scattered.
+[NL] Tijdens een vlucht kwam je in een vlieg ongeluk terug waarbij je op een eiland lande in de bermula driehoek op dit eiland zitten allemaal Blackboxes die je moet verzammelen.
 
 ---
 #### Producten Werkproces 1
 | Product  | Link |
 | ------ |  ------ |
-| Link naar online product backlog (Trello) | [Backlog]
-| Logboek (pdf)                             | [Logboek]
-| Game concept doc (pdf)                    | [GameDesignDoc]
+| Link naar online product backlog (Trello) | [Trello](https://trello.com/b/pplGpHjo/mythe)
+| Logboek (pdf)                             | [Logboek](http://28095.hosts2.ma-cloud.nl/Mythe_Logbook/index.html)
+| Game concept doc (pdf)                    | [GameDesignDoc](/Gamedesing_document.pdf)
 |<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 2
 | Product  | Link |
 | ------ |  ------ |
-| Online Product backlog & Sprint backlog + DoD (Trello)    | [Backlog]
-| Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen]
-| Logboek (pdf)                                             | [Logboek]
-| Opnames sprint retrospectives (Teams opnames)             | [Folder op teams]
-| Opnames standups (Teams opnames)                          | [Folder op teams]
+| Online Product backlog & Sprint backlog + DoD (Trello)    | [Trello](https://trello.com/b/pplGpHjo/mythe)
+| Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen](/Sprint_retrospective_verslag.pdf)
+| Logboek (pdf)                                             | [Logboek](http://28095.hosts2.ma-cloud.nl/Mythe_Logbook/index.html)
+| Opnames sprint retrospectives (Teams opnames)             | [Folder op teams](https://mediacollegeamsterdam.sharepoint.com/teams/MytheGDGA2021-Team7/Gedeelde%20documenten/Team%207/Opnames%20Sprint%20Retrospective/Vergadering%20in%20Team%2007-20210531_083454-Meeting%20Recording.mp4)
+| Opnames standups (Teams opnames)                          | [Folder op teams](https://mediacollegeamsterdam.sharepoint.com/teams/MytheGDGA2021-Team7/Gedeelde%20documenten/Team%207/Opnames%20van%20standups/Vergadering%20in%20Team%2007-20210614_074850-Meeting%20Recording.mp4)
 |<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 3
 | Product  | Link |
 | ------ |  ------ |
-| Sprint retrospective verslagen (pdf)  | [RetrospectiveVerslagen]
-| Sprint review verslagen (pdf)         | [ReviewVerslagen]
-| Link naar online speelbaar prototype  | [Prototype]
-| Logboek (pdf)                         | [Logboek]
-| Asset planning (pdf)                  | [AssetPlanning]
+| Sprint retrospective verslagen (pdf)  | [RetrospectiveVerslagen](/Sprint_retrospective_verslag.pdf)
+| Sprint review verslagen (pdf)         | [ReviewVerslagen](/Sprint%20review%20verslagen.pdf)
+| Link naar online speelbaar prototype  | Prototype
+| Logboek (pdf)                         | [Logboek](http://28095.hosts2.ma-cloud.nl/Mythe_Logbook/index.html)
+| Asset planning (pdf)                  | [AssetPlanning](Asset%20Planning.pdf)
 |<img width=500/>|<img width=300/>|
 
    [Backlog]: <https://trello.com/b/hik72z4q/mythe-2019-voorbeeld-trello>
