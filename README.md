@@ -32,7 +32,7 @@ Platform:
 | ------ |  ------ |
 | Sprint retrospective verslagen (pdf)  | [RetrospectiveVerslagen](/Sprint_retrospective_verslag.pdf)
 | Sprint review verslagen (pdf)         | [ReviewVerslagen](/Sprint%20review%20verslagen.pdf)
-| Link naar online speelbaar prototype  | [Prototype](https://drive.google.com/drive/folders/1OgnlRSPXbZxSa3oZCaNbCfuL943u-8v2?usp=sharing)
+| Link naar online speelbaar prototype  | [removed temporaly to try and fix my pc due to lack of memomry space]()
 | Logboek (pdf)                         | [Logboek](http://28095.hosts2.ma-cloud.nl/Mythe_Logbook/index.html)
 | Asset planning (pdf)                  | [AssetPlanning](Asset%20Planning.pdf)
 |<img width=500/>|<img width=300/>|
